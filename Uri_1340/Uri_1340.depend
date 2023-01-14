@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621784344 source:/home/gabriel/Documentos/Uri_1340/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Uri_1340.h"
+
+1621783536 /home/gabriel/Documentos/Uri_1340/Uri_1340.h
+
+1621783923 source:/home/gabriel/Documentos/Uri_1340/Uri_1340.c
+	<stdio.h>
+	<stdlib.h>
+	"Uri_1340.h"
+

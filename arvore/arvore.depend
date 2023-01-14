@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630283598 source:/home/gabriel/Documentos/arvore/main.c
+	<stdio.h>
+	<stdlib.h>
+

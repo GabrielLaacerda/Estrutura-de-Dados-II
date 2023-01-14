@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619733209 source:/home/gabriel/Documentos/MochilaBooleanaBottomUp/main.c
+	<stdio.h>
+	<stdlib.h>
+

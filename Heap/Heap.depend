@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1620836461 source:/home/gabriel/Documentos/Heap/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Heap.h"
+
+1629162690 
+
+1620832885 /home/gabriel/Documentos/Heap/Heap.c
+	"Heap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1629162699 
+
+1620836945 /home/gabriel/Documentos/Heap/Heap.h
+
+1620836519 source:/home/gabriel/Documentos/Heap/Heap.c
+	"Heap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1629162699 source:e:\ed2\heap\heap.c
+	"Heap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1620836945 e:\ed2\heap\heap.h
+
+1629162690 source:e:\ed2\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Heap.h"
+
+1629162699 source:/mnt/sda4/ED2/Heap/Heap.c
+	"Heap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1620836945 /mnt/sda4/ED2/Heap/Heap.h
+
+1629162690 source:/mnt/sda4/ED2/Heap/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Heap.h"
+

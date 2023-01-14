@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622040843 source:/home/gabriel/Documentos/Grafo_GabrielVinicius/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1622046162 source:/home/gabriel/Documentos/Grafo_GabrielVinicius/Grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1622040800 /home/gabriel/Documentos/Grafo_GabrielVinicius/Grafo.h
+

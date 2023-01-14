@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1629901882 source:/home/gabriel/Documentos/CalculadoraPolonesa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1629996626 source:/home/gabriel/Downloads/CalculadoraPolonesa/CalculadoraPolonesa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CalculadoraPolonesa.h"
+
+1629995684 /home/gabriel/Downloads/CalculadoraPolonesa/CalculadoraPolonesa.h
+
+1629903163 source:/home/gabriel/Downloads/CalculadoraPolonesa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CalculadoraPolonesa.h"
+
+1629996626 source:/home/gabriel/Downloads/Atividade1/CalculadoraPolonesa/CalculadoraPolonesa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CalculadoraPolonesa.h"
+
+1629995684 /home/gabriel/Downloads/Atividade1/CalculadoraPolonesa/CalculadoraPolonesa.h
+
+1629997040 source:/home/gabriel/Downloads/Atividade1/CalculadoraPolonesa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CalculadoraPolonesa.h"
+
+1629996626 source:/home/gabriel/Documentos/Atividade1/CalculadoraPolonesa/CalculadoraPolonesa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CalculadoraPolonesa.h"
+
+1629995684 /home/gabriel/Documentos/Atividade1/CalculadoraPolonesa/CalculadoraPolonesa.h
+
+1630029424 source:/home/gabriel/Documentos/Atividade1/CalculadoraPolonesa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CalculadoraPolonesa.h"
+
